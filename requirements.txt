@@ -1,0 +1,39 @@
+# Core data science libraries
+pandas==2.3.1
+numpy==2.2.6
+scipy==1.16.0
+
+# Machine Learning
+scikit-learn==1.6.1
+xgboost==3.0.2
+lightgbm==4.6.0
+imbalanced-learn==0.13.0
+
+# Survival Analysis
+lifelines==0.30.0
+
+# Data Visualization
+matplotlib==3.10.3
+seaborn==0.13.2
+plotly==6.2.0
+
+# Streamlit for web app
+streamlit==1.47.0
+pillow==11.3.0
+
+# Model Interpretability
+shap==0.48.0
+
+# Utilities
+joblib==1.5.1
+tqdm==4.67.1
+requests==2.32.4
+
+# Jupyter/Notebook support (optional)
+# jupyter==1.1.1
+# notebook==7.3.2
+
+# Development tools (optional)
+# pytest==8.3.4
+# black==24.10.0
+# flake8==7.1.1
